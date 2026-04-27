@@ -1,0 +1,6 @@
+---
+title: "In-class template"
+author: "Abigail Youngblood"
+format: pdf
+---
+
